@@ -3,6 +3,7 @@ title: Inkling API
 
 toc_footers:
   - <a href='http://home.inklingmarkets.com/'>Check out our public markets!</a>
+  - <a href='mailto:contact@inklingmarkets.com'>Contact us</a>
 
 includes:
   - introduction
