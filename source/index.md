@@ -6,7 +6,11 @@ toc_footers:
 
 includes:
   - introduction
-  - example
+  - markets
+  - stocks
+  - positions
+  - trades
+  - memberships
 
 search: true
 ---

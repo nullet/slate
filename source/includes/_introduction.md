@@ -14,9 +14,10 @@ curl -u zach:changeme http://URL/trades.xml
 
 > The above will return an XML-formatted response, if it succeeds. If a request fails, the error information is returned with an HTTP status code. For example, a curl request to create a user that already exists will return a 422:
 
-```shell
   curl -H 'Content-Type: application/xml' \ 
   -u admin:password -d ' \
+
+```xml
   <user> \
     <login>new_user</login> \ 
     <password>somepassword</password> \ 
